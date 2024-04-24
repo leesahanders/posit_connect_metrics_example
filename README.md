@@ -9,3 +9,9 @@ Disclaimer from Katie:
 
 - <https://docs.posit.co/connect/api/#get-/v1/instrumentation/content/visits:~:text=html%20qu[…]s%20how%20to%20interpret%20data_version%20values.,-from>
 - <https://docs.posit.co/connect/admin/operational-metrics/#content-visit-events>
+
+
+Content: 
+
+- Roger's public_connect_content_id: <https://github.com/lagerratrobe/public_connect_content_id>
+- Various official examples for using the Connect API: <https://solutions.posit.co/operations/connect-apis/> 
